@@ -725,6 +725,18 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:mt-\[\] {
+    margin-top: ;
+  }
+
+  .md\:mt-\[200px\] {
+    margin-top: 200px;
+  }
+
+  .md\:mt-\[150px\] {
+    margin-top: 150px;
+  }
+
   .md\:block {
     display: block;
   }
